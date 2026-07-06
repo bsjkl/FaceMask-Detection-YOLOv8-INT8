@@ -1,0 +1,4 @@
+ultralytics==8.4.65
+onnxruntime-gpu==1.20.1
+opencv-python
+jupyter
