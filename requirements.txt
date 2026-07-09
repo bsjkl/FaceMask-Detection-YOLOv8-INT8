@@ -1,0 +1,6 @@
+ultralytics==8.4.65
+onnxruntime-gpu==1.20.1
+opencv-python
+ultralytics>=8.4.65
+onnxruntime-gpu>=1.20.1
+opencv-python>=4.8.0
