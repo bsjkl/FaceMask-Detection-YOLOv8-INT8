@@ -10,5 +10,5 @@ def verify_dataset(yaml_path='../data.yaml'):
         data = yaml.safe_load(f)
     print(f"✅ 数据集校验通过。包含类别: {data.get('names', [])}")
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     verify_dataset()
