@@ -1,4 +1,4 @@
-from ultralytics import YOLO
+from ultralytics import YOLO 
 
 def main():
     print("🚀 开始训练基线模型...")
